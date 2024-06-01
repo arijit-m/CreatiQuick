@@ -10,12 +10,12 @@ The creatinine level in human serum or urine plays a major role in detecting the
 
 CreatiQuick is a pocket-sized device that displays a person's creatinine level using a color code, indicating whether it is within a safe range or above the normal level.
 
+
+
 **Working Principle**
 
 CreatiQuick is based on 2 mechanisms
-    
-    -Paper based microfluidics for sample tensfer towards reaction zone
-    
+    -Paper based microfluidics for sample tensfer towards reaction zone 
     -Colorimetric detection to display the result
 
 For paper based microfluidics, we have used nitrocellulose membrane. This works with the principle of diffusion. It carries the sample to the reaction site.
