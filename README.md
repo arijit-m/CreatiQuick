@@ -1,7 +1,7 @@
 # CreatiQuick
 A rapid creatinine level detection device
 
-**Why CreatiQuick**
+****Why CreatiQuick****
 
 According to data, 1 in 10 people worldwide are affected by Chronic Kidney Disease (CKD), and there is 1 death for every 57 people with the condition.
 From 1990 to 2017 death rate increased by 141.5%.
@@ -12,7 +12,7 @@ CreatiQuick is a pocket-sized device that displays a person's creatinine level u
 
 
 
-**Working Principle**
+****Working Principle****
 
 CreatiQuick is based on 2 mechanisms
     
