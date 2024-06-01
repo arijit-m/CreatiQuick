@@ -27,6 +27,9 @@ Colourimetric detection: Here the creatinine present in urine or serum reacts wi
 
 The intensity of the colour is proportional to the creatinine concentration.
 
+![Screenshot 2024-06-01 074855](https://github.com/arijit-m/CreatiQuick/assets/117001774/2220bb2c-8bd0-4a3c-927c-0525165a9068)
+
+
 ![Screenshot 2024-06-01 073053](https://github.com/arijit-m/CreatiQuick/assets/117001774/426dabc6-fda7-4331-9a84-80704d7d2e22)
 
 ![Screenshot 2024-06-01 073031](https://github.com/arijit-m/CreatiQuick/assets/117001774/ce425692-42ec-478c-b22a-38a8667a5a07)
