@@ -15,14 +15,16 @@ CreatiQuick is a pocket-sized device that displays a person's creatinine level u
 **Working Principle**
 
 CreatiQuick is based on 2 mechanisms
-    -Paper based microfluidics for sample tensfer towards reaction zone 
-    -Colorimetric detection to display the result
+    
+--Paper based microfluidics for sample tensfer towards reaction zone 
+--Colorimetric detection to display the result
 
 For paper based microfluidics, we have used nitrocellulose membrane. This works with the principle of diffusion. It carries the sample to the reaction site.
 
 Colourimetric detection: Here the creatinine present in urine or serum reacts with picric acid and makes yellow-orange compound which represents the concentration level of creatinine.
 
 The intensity of the colour is proportional to the creatinine concentration.
+
 ![Screenshot 2024-06-01 073053](https://github.com/arijit-m/CreatiQuick/assets/117001774/426dabc6-fda7-4331-9a84-80704d7d2e22)
 
 ![Screenshot 2024-06-01 073031](https://github.com/arijit-m/CreatiQuick/assets/117001774/ce425692-42ec-478c-b22a-38a8667a5a07)
