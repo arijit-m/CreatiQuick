@@ -63,7 +63,7 @@ CreatiQuick operates using two primary mechanisms:
 
 ## Authors and Contact
 
-Developed by [Arijit Mohanta] at [IIT Guwahati].  
-For questions, please contact: **[m.arijit@iitg.ac.in]**
+Developed by Arijit Mohanta at IIT Guwahati.  
+For questions, please contact: **m.arijit@iitg.ac.in**
 
 ---
